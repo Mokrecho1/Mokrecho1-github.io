@@ -1,3 +1,3 @@
-#1 Heading Test 1
+# Heading Test 1
 
 Testing Github Pages
